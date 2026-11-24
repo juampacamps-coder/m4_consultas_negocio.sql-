@@ -53,5 +53,5 @@ FROM Facturacion_por_producto;
 --HALLAZGOS--
 
 1. --El producto 1 y el 5 tienen la misma cantidad de ventas, pero la diferencia de la facturacion es de mas de 3000--
-2. --Todos los clientes compraron igual de veces pero no gastaron lo mismo--
-3. --Mas de la mitad de los productos quedaron por debajo del promedio --
+2. --Todos los clientes compraron igual de veces (2 cada uno) pero no gastaron lo mismo--
+3. --Mas de la mitad de los productos quedaron por debajo del promedio. 4 para ser mas precisos --
